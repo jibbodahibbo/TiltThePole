@@ -1,0 +1,73 @@
+#ttp-home-over h1{
+
+}
+
+#ttp-home-overimage{
+vertical-align: center;
+
+}
+
+#ttp-home-over{
+  color:white;
+  padding-left:60px;
+  padding-right:60px;
+  padding-top:40px;
+  padding-bottom:40px;
+  background-color:rgba(0, 0, 0, 0.5);
+
+}
+
+#ttp-home-over h1 , #ttp-home-over p{
+text-align: left;
+  color:white;
+  margin-right:10%;
+}
+
+
+#ttp-home-banner{
+
+background-image: url("../images/Image1.jpg");
+background-repeat: no-repeat;
+background-size:cover;
+
+}
+
+
+#ttp-home-tab-content{
+margin-top:75px;
+margin-right:5%;
+margin-left:5%;
+margin-bottom:100px;
+}
+#ttp-home-tabs{
+
+}
+#ttp-home-tabs a{
+
+}
+#ttp-home-tabs li{
+padding-right:10px;
+}
+
+#ttp-home-image{
+
+}
+#ttp-pain-promise-solution{
+  margin-top:50px;
+  margin-left:10%;
+  margin-right:10%;
+  color:black;
+
+}
+
+#ttp-tab !important{
+display:inline;
+}
+#ttp-tab p !important{
+  margin-left:20px;
+}
+
+#tabs-row{
+margin-top:70px;
+
+}
