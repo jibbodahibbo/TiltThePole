@@ -1,5 +1,12 @@
-#ttp-home-over h1{
+.navbar{
+  font-family: 'Montserrat', sans-serif;
 
+}
+#ttp-home-over h1{
+font-weight: 300;
+text-align: left;
+  color:white;
+  margin-right:10%;
 }
 
 #ttp-home-overimage{
@@ -9,18 +16,18 @@ vertical-align: center;
 
 #ttp-home-over{
   color:white;
-  padding-left:60px;
-  padding-right:60px;
+
   padding-top:40px;
   padding-bottom:40px;
   background-color:rgba(0, 0, 0, 0.5);
 
 }
 
-#ttp-home-over h1 , #ttp-home-over p{
+#ttp-home-over p{
 text-align: left;
   color:white;
   margin-right:10%;
+  font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -34,7 +41,6 @@ background-size:cover;
 
 
 #ttp-home-tab-content{
-margin-top:75px;
 margin-right:5%;
 margin-left:5%;
 margin-bottom:100px;
@@ -70,4 +76,13 @@ display:inline;
 #tabs-row{
 margin-top:70px;
 
+}
+.page-footer{
+  font-family: 'Montserrat', sans-serif;
+  font-weight:100;
+color:white;
+  background-color:#05142f;
+}
+.page-footer a {
+  color:#ca0000;
 }
