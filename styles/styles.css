@@ -86,3 +86,70 @@ color:white;
 .page-footer a {
   color:#ca0000;
 }
+
+#ttp-shade_image {
+    height:250px;
+    position: relative;
+}
+
+#ttp-shade_table td {
+    padding:20px;
+    position: relative;
+}
+#ttp-shade_table th {
+background-color: #007bff;
+color:white;
+padding:10px;
+border-radius:10px;
+}
+
+.ttp-page-title{
+
+  background-color:#05142f;
+  color:white;
+  border: 0px;
+  padding: 30px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.ttp-features-banner{
+  position:relative;
+  background-image: url("../images/Resort_1.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ background-attachment: fixed;
+margin-bottom:35px;
+
+}
+
+
+#ttp-features-over{
+  color:white;
+
+  padding-top:40px;
+  padding-bottom:40px;
+  background-color:rgba(0, 0, 0, 0.5);
+
+}
+
+#ttp-features-text {
+  margin-left:25%;
+  text-align:center;
+  width:50%;
+}
+
+#ttp-content-header{
+color:#05142f;
+border-bottom: 1px solid #05142f;
+padding:20px;
+background-color:#eeeeee;
+
+
+}
+
+#ttp-content-group{
+  margin-top:50px;
+  padding:10px;
+  border:3px solid #05142f;
+}
